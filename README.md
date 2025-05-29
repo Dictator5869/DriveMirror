@@ -75,8 +75,6 @@ This software is licensed under the Creative Commons Attribution-NonCommercial-N
 
 <hr />
 
-<hr />
-
 <h2>☕ Support</h2>
 
 <p>If you find DriveMirror useful and want to support development, you can <strong>buy me a coffee on Ko-fi</strong>:</p>
