@@ -60,8 +60,18 @@
 
 <h2>📜 License</h2>
 
-<p>License<br />
-.</p>
+<p>DriveMirror License (CC BY-NC-ND 4.0)<br />
+This software is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+
+### ✅ You may:
+- Download, install, and use DriveMirror for non-commercial personal or organizational use.
+
+### 🚫 You may not:
+- Modify, adapt, or create derivative works.
+- Reupload, redistribute, or sell copies in any form.
+- Claim authorship or represent DriveMirror as a product of another entity.
+
+**Disclaimer:** This software is provided *"as-is"* with no warranties. Use at your own risk.</p>
 
 <hr />
 
